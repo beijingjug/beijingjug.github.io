@@ -16,3 +16,5 @@ title: 北京 Java User Group
 <p>北京 Java User Group</p>
 
 <p><a href="http://eclipse-china.github.io">Eclipse China</a></p>
+
+[活动 Current events](http://www.eventbrite.com/org/3505778863)
