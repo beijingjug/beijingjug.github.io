@@ -1,5 +1,5 @@
 ---
-layout: eclipse-china
+layout: timemachine
 title: 北京 Java User Group
 ---
 
