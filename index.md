@@ -5,7 +5,7 @@ title: 北京 Java User Group
 
 ## 北京 Java User Group
 
-<hr><p>layout: nil</p>
+<hr>
 
 <h2>
 <a name="title--java-user-group" class="anchor" href="#title--java-user-group"><span class="octicon octicon-link"></span></a>title: 北京 Java User Group</h2>
