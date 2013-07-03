@@ -3,7 +3,7 @@ layout: timemachine
 title: 北京 Java User Group
 ---
 
-## Eclipse Day China
+## 北京 Java User Group
 
 <hr><p>layout: nil</p>
 
