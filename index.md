@@ -17,4 +17,9 @@ title: 北京 Java User Group
 
 <p><a href="http://eclipse-china.github.io">Eclipse China</a></p>
 
+<!--
 [活动 Current events](http://www.eventbrite.com/org/3505778863)
+-->
+
+[活动 Current events are announced at BSC (Beijing Software Craftsmanship Meetup Group)](http://www.meetup.com/BeijingSoftwareCraftsmanship/)
+
