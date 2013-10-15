@@ -24,3 +24,6 @@ title: 北京 Java User Group
 [活动 Current events are announced at BSC (Beijing Software Craftsmanship Meetup Group)](http://www.meetup.com/BeijingSoftwareCraftsmanship/)
 
 你有主题想讨论？ 那就在BSC建议meetup。如果2个星期之前公布的话，来的人跟多。
+
+欢迎欢迎来讨论 Java， Apache， Eclipse， JBoss， Spring， Scala， Grovy， Hadoop，Web 等等。
+ 
