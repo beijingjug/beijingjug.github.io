@@ -26,4 +26,7 @@ title: 北京 Java User Group
 你有主题想讨论？ 那就在BSC建议meetup。如果2个星期之前公布的话，来的人跟多。
 
 欢迎欢迎来讨论 Java， Apache， Eclipse， JBoss， Spring， Scala， Grovy， Hadoop，Web 等等。
+
+News:
  
+[2013 China Duke’s Choice Award](https://blogs.oracle.com/java/entry/2013_china_duke_s_choice)
