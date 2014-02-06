@@ -28,5 +28,7 @@ title: 北京 Java User Group
 欢迎欢迎来讨论 Java， Apache， Eclipse， JBoss， Spring， Scala， Grovy， Hadoop，Web 等等。
 
 News:
+
+[Eclipse DemoDay Beijing in June | 2014年6月Eclipse北京大会](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing)
  
 [2013 China Duke’s Choice Award](https://blogs.oracle.com/java/entry/2013_china_duke_s_choice)
