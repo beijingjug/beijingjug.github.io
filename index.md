@@ -31,7 +31,7 @@ QQ  264930385
 
 News:
 
-[Codenvy cloud IDE and Java 8 meetup](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/164834752/)
+[Codenvy cloud IDE and Java 8 meetup](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/164834752/) 2014-03-11
 
 [Eclipse DemoDay Beijing in June | 2014年6月Eclipse北京大会](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing)
  
