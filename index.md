@@ -1,9 +1,9 @@
 ---
 layout: timemachine
-title: 北京 Java User Group
+title: 北京Java群 | Beijing Java User Group
 ---
 
-## 北京 Java User Group
+## 北京Java群 | Beijing Java User Group
 
 <hr>
 
@@ -13,7 +13,9 @@ title: 北京 Java User Group
 <h1>
 <a name="beijingjuggithubio" class="anchor" href="#beijingjuggithubio"><span class="octicon octicon-link"></span></a>beijingjug.github.io</h1>
 
-<p>北京 Java User Group</p>
+<p>北京Java群 | Beijing Java User Group</p>
+
+QQ  264930385
 
 <p><a href="http://eclipse-china.github.io">Eclipse China</a></p>
 
@@ -28,6 +30,8 @@ title: 北京 Java User Group
 欢迎欢迎来讨论 Java， Apache， Eclipse， JBoss， Spring， Scala， Grovy， Hadoop，Web 等等。
 
 News:
+
+[Codenvy cloud IDE and Java 8 meetup](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/164834752/)
 
 [Eclipse DemoDay Beijing in June | 2014年6月Eclipse北京大会](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing)
  
