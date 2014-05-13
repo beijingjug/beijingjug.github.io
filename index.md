@@ -5,6 +5,8 @@ title: 北京Java群 | Beijing Java User Group
 
 ## 北京Java群 | Beijing Java User Group
 
+[Edit this page](https://github.com/beijingjug/beijingjug.github.io/edit/master/index.md)
+
 <hr>
 
 <h2>
@@ -30,6 +32,8 @@ QQ  264930385
 欢迎欢迎来讨论 Java， Apache， Eclipse， JBoss， Spring， Scala， Grovy， Hadoop，Web 等等。
 
 News:
+
+[Eclipse DemoCamp Luna 北京](https://wiki.eclipse.org/Eclipse_DemoCamps_Luna_2014/Beijing) Saturday, June 28th 6月28号 周六 2pm
 
 [Codenvy cloud IDE and Java 8 meetup](http://www.meetup.com/BeijingSoftwareCraftsmanship/events/164834752/) 2014-03-11
 
