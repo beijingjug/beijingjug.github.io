@@ -7,6 +7,7 @@ title: 北京Java群 | Beijing Java User Group
 
 [Edit this page](https://github.com/beijingjug/beijingjug.github.io/edit/master/index.md)
 
+<!-- 
 <hr>
 
 <h2>
@@ -14,6 +15,7 @@ title: 北京Java群 | Beijing Java User Group
 
 <h1>
 <a name="beijingjuggithubio" class="anchor" href="#beijingjuggithubio"><span class="octicon octicon-link"></span></a>beijingjug.github.io</h1>
+-->
 
 <p>北京Java群 | Beijing Java User Group</p>
 
